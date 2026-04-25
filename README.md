@@ -121,7 +121,7 @@ python weather.py
 * Replace your API key in the code:
 
 ```python
-api_key = "YOUR_API_KEY"
+api_key ="a536fccca7d7747062a788bebfc96813"
 ```
 
 ---
