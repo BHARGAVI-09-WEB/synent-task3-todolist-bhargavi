@@ -73,6 +73,84 @@ python student.py
 This project is part of Synent Technologies Python Internship.
 
 
+# 🌦️ Weather App (API Integration)
+
+## 📌 Description
+
+This is a Python-based Weather Application that fetches real-time weather data using an API.
+Users can enter a city name and get current weather details instantly.
+
+---
+
+## 🚀 Features
+
+* 🌍 Search weather by city name
+* 🌡️ Displays temperature
+* 💧 Shows humidity
+* ☁️ Shows weather condition
+* 🔄 Real-time data using API
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Requests Library
+* API (OpenWeather)
+
+---
+
+## ▶️ How to Run
+
+1. Install required library:
+
+```bash
+pip install requests
+```
+
+2. Run the program:
+
+```bash
+python weather.py
+```
+
+---
+
+## ⚠️ Important Note
+
+* Replace your API key in the code:
+
+```python
+api_key = "YOUR_API_KEY"
+```
+
+---
+
+## 📸 Sample Output
+
+Enter city name: Hyderabad
+
+--- Weather Report ---
+Temperature: 30°C
+Humidity: 60%
+Condition: clear sky
+
+---
+
+## 📽️ Demo Video
+
+https://www.linkedin.com/posts/naini-gyana-bhargava-sree-a553aa33b_internship-python-programming-activity-7453859573771210752-TjaL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFVPR2EBxDVr1nxbh8YmaJRPw0PjWcwD2sY
+
+---
+
+## 📎 Internship
+
+This project is part of the Synent Technologies Python Internship Program.
+
+---
+
+
+
 
 
 
