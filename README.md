@@ -114,11 +114,6 @@ pip install requests
 python weather.py
 ```
 
----
-
-## ⚠️ Important Note
-
-* Replace your API key in the code:
 
 ```python
 api_key ="a536fccca7d7747062a788bebfc96813"
