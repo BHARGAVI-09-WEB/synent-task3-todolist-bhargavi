@@ -66,7 +66,7 @@ python student.py
 
 ## 📽️ Demo Video
 
-(Paste your LinkedIn/YouTube link here)
+https://www.linkedin.com/posts/naini-gyana-bhargava-sree-a553aa33b_internship-python-programming-ugcPost-7455178742248812544-OmEh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFVPR2EBxDVr1nxbh8YmaJRPw0PjWcwD2sY
 
 ## 📎 Internship
 
